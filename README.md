@@ -1,6 +1,7 @@
-# flutterjsonudemy
+# JSON Structure : List of Maps
 
-A new Flutter application.
+A Flutter App that reads JSON data from an URL. The JSON Data is a List Of Maps
+URL: https://jsonplaceholder.typicode.com/posts
 
 ## Getting Started
 
